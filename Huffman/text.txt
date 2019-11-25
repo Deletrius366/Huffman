@@ -1,0 +1,3 @@
+-a -i C:\Users\User\CLionProjects\Huffman\input.txt -o C:\Users\User\CLionProjects\Huffman\output.txt
+
+-u -i C:\Users\User\CLionProjects\Huffman\output.txt -o C:\Users\User\CLionProjects\Huffman\input.txt
